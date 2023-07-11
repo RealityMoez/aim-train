@@ -20,7 +20,7 @@ body {
     --y: 50;
     --radius: 2;
     position: absolute;
-    background-color: ##ffffff;
+    background-color: #ffffff;
     left: calc((var(--x) * 1vw));
     top: calc((var(--y) * 1vh));
     border-radius: 50%;
